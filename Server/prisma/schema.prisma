@@ -7,7 +7,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = "postgres://yenmjectliotfh:237ff64e246068a6e5491e0e304aae2ceb7cbc9470a6b142dacbbb56dbe0f7a9@ec2-52-86-56-90.compute-1.amazonaws.com:5432/d2kb97inmeume1"
+  url      = "postgres://bnjbsnyyhenpjw:76fda86859bccdab6d672b873f0154d3fce548daa0dde11ae6156f265d25cb4c@ec2-3-217-113-25.compute-1.amazonaws.com:5432/d7f250bgr7aal4"
 }
 
 model Feedback {
